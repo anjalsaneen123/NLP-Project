@@ -26,7 +26,7 @@ Average Accuracy:  0.996
 
 
 
-##Accuracy result counting a bigram in the training data:
+##Accuracy result counting bigram in the training data:
 
 Accuracy  1  :  0.96
 
