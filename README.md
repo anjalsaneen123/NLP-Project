@@ -1,5 +1,3 @@
-#NLP-Project
-
 ##Accuracy results:
 
 Accuracy  1  =  0.98
